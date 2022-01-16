@@ -1063,7 +1063,7 @@ textarea:focus {
 }
 
 .no-background {
-    background: url();
+    /*background: url();*/
 }
 
 .checkbox-custom[id="warm"]::before {
